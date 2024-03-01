@@ -1,6 +1,6 @@
 
 
-const imccalc = () => {
+const ImcCalc = () => {
   return  <div id="calc-container" >
     <h2>Calculadora imc</h2>
     <form id="imc-form">
@@ -25,4 +25,4 @@ const imccalc = () => {
   
 }
 
-export default imccalc;
+export default ImcCalc;

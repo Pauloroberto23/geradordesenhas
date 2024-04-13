@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "name": "capa de chuva",
+      "price": "50.50",
+      "id": "5"
+    },
+    {
+      "name": "teclado",
+      "price": "110",
+      "id": "6"
+    },
+    {
+      "name": "cadeira",
+      "price": "200",
+      "id": "7"
+    },
+    {
+      "id": "c210",
+      "name": "pauj",
+      "price": "2224"
+    },
+    {
+      "id": "0601",
+      "name": "pauj",
+      "price": "2224"
+    },
+    {
+      "id": "9451",
+      "name": "kjhkjh",
+      "price": "2252"
+    },
+    {
+      "id": "e21e",
+      "name": "luiz",
+      "price": "1706"
+    },
+    {
+      "id": "e0df",
+      "name": "luiz",
+      "price": "1706"
+    },
+    {
+      "id": "c088",
+      "name": "luiz",
+      "price": "1706"
+    },
+    {
+      "id": "556e",
+      "name": "lu",
+      "price": "071083"
+    },
+    {
+      "id": "e36f",
+      "name": "paulo",
+      "price": "1230"
+    },
+    {
+      "id": "1a17",
+      "name": "paulo",
+      "price": "1230"
+    },
+    {
+      "id": "1f0d",
+      "name": "kjk",
+      "price": "j1222"
+    },
+    {
+      "id": "e2e8",
+      "name": "kjk",
+      "price": "j1222"
+    },
+    {
+      "id": "1c0a",
+      "name": "kjk",
+      "price": "j1222"
+    },
+    {
+      "id": "3d49",
+      "name": "paulo",
+      "price": "12304"
+    },
+    {
+      "id": "c942",
+      "name": "paulo",
+      "price": "12304"
+    },
+    {
+      "id": "a7c0",
+      "name": "luiz",
+      "price": "6542"
+    },
+    {
+      "id": "e83d",
+      "name": "luiz",
+      "price": "6542"
+    },
+    {
+      "id": "c587",
+      "name": "luiz",
+      "price": "6542"
+    }
+  ]
+}

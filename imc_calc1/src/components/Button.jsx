@@ -1,13 +1,15 @@
 import "./Button.css";
-import "./ImcCalc.css"
 
-const Button = ({id, Text, action}) => {
-    const handleAction = (e) => {
-        action(e);
-    }
+const Button = ({ id, text, action }) => {
+  const handleAction = (e) => {
+    action(e);
+  };
+
   return (
-    <button id={id} onClick={handleAction}>{Text}</button>
-  )
-}
+    <button id={id} onClick={handleAction}>
+      {text}
+    </button>
+  );
+};
 
-export default Button
+export default Button;

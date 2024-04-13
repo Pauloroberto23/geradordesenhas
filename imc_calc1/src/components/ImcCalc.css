@@ -1,34 +1,34 @@
 #calc-container h2 {
     text-align: center;
-}
-.form-inputs {
+    margin-bottom: 2rem;
+  }
+  
+  .form-inputs {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-}
-
-.form-control {
+  }
+  
+  .form-control {
     display: flex;
-    flex-direction: column;
     flex: 1;
+    flex-direction: column;
     margin-bottom: 1rem;
-}
-
-.form-control label {
+  }
+  
+  .form-control label {
     font-weight: bold;
     margin-bottom: 0.6rem;
     color: #ccc;
-}
-
-.form-control input {
+  }
+  
+  .form-control input {
     padding: 1rem 0.5rem;
-}
-
-.action-control {
+  }
+  
+  .action-control {
     display: flex;
-    justify-content: space-around;
-    gap: 1rem;
+    justify-content: space-between;
     margin-top: 2rem;
-}
-
-
+    gap: 1rem;
+  }

@@ -5,12 +5,14 @@ button {
     border: none;
     color: #fff;
     cursor: pointer;
-    opacity: .9;
+    opacity: 0.9;
     flex: 1;
-}
-
-#clear-btn {
+  }
+  
+  button:hover {
+    opacity: 1;
+  }
+  
+  #clear-btn {
     background-color: #444;
-}
-
-
+  }
